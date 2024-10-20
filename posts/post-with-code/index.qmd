@@ -1,6 +1,6 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Prueba"
+author: "Natasha"
 date: "2024-10-19"
 categories: [news, code, analysis]
 image: "image.jpg"
